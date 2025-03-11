@@ -1,0 +1,20 @@
+nombre=input("adan")
+edad=int(input(17))
+ciudad=input("maracaibo")
+print("hola,{adan}.tienes{17}años y eres de {maracaibo}.")
+
+
+edad=30
+if edad>=18:
+    print("eresmayor de edad.")
+    
+    
+    a=10
+    b=5
+    resultado=a==b # false
+    
+    print("suma:",30+55)
+    print("resta:",55-60)
+    print("divicion:",30/30)
+    print("multiplicacion:",7*8)
+    
